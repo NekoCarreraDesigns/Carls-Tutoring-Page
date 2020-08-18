@@ -26,5 +26,8 @@
   "bugs": {
     "url": "https://github.com/NekoCarreraDesigns/Carls-Tutoring-Page/issues"
   },
-  "homepage": "https://github.com/NekoCarreraDesigns/Carls-Tutoring-Page#readme"
+  "homepage": "https://github.com/NekoCarreraDesigns/Carls-Tutoring-Page#readme",
+  "dependencies": {
+    "mongoose": "^5.10.0"
+  }
 }
