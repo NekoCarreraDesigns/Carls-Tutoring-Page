@@ -1,0 +1,30 @@
+{
+  "name": "carls-tutoring-page",
+  "version": "1.0.0",
+  "description": "Tutoring page for Carl's tutoring side hustle",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NekoCarreraDesigns/Carls-Tutoring-Page.git"
+  },
+  "keywords": [
+    "tutoring",
+    "carl",
+    "node.js",
+    "mongoose",
+    "mongodb",
+    "bootstrap",
+    "Rick",
+    "Grimes"
+  ],
+  "author": "Nicholas C. Maas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NekoCarreraDesigns/Carls-Tutoring-Page/issues"
+  },
+  "homepage": "https://github.com/NekoCarreraDesigns/Carls-Tutoring-Page#readme"
+}
