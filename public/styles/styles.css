@@ -1,0 +1,19 @@
+body {
+    background-image: url("https://images.unsplash.com/photo-1502078534399-8190479363f5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+header {
+    font-size: 40px;
+    margin-top: 100px;
+    border: dimgrey;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    text-shadow: firebrick 2px 2px;
+    color: darkblue;
+    font-family: 'Permanent Marker', cursive;
+    text-align: center;
+    
+}
